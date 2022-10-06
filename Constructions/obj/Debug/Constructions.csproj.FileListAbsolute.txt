@@ -1,0 +1,8 @@
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\bin\Debug\Constructions.exe.config
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\bin\Debug\Constructions.exe
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\bin\Debug\Constructions.pdb
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\obj\Debug\Constructions.csproj.AssemblyReference.cache
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\obj\Debug\Constructions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\obj\Debug\Constructions.csproj.CoreCompileInputs.cache
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\obj\Debug\Constructions.exe
+C:\Users\Kyrylo\source\repos\Constructions\Constructions\obj\Debug\Constructions.pdb
