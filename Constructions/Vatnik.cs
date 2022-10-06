@@ -10,7 +10,7 @@ namespace Constructions
     {
         public override void GetRoar()
         {
-            Console.WriteLine("Bazi NATO , nacisti , narkomany , anglo-saksy!!!");
+            Console.WriteLine("aaaa , rushke pizdec ");
         }
     }
 }
