@@ -16,7 +16,7 @@ namespace Constructions
         }
         public override void Show()
         {
-            Console.WriteLine($" Pasport ID {pasid}");
+            Console.WriteLine($"New Person Pasport ID {pasid}");
         }
         public int GetMax(params int[] nums)
         {
