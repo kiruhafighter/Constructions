@@ -10,7 +10,7 @@ namespace Constructions
     {
         public override void GetRoar()
         {
-            Console.WriteLine("Myau");
+            Console.WriteLine("Smert moskalyam");
         }
     }
 }
