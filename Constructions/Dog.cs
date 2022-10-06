@@ -10,7 +10,7 @@ namespace Constructions
     {
         public override void GetRoar()
         {
-            Console.WriteLine("Huyak");
+            Console.WriteLine("Huyak po lbu moskalya");
         }
     }
 }
